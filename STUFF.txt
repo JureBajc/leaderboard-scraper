@@ -1,0 +1,97 @@
+MAPS:
+
+save server name
+SAVE match_id = 2899
+
+kills, deaths, weapon kills, kpm, 
+map, timer of match
+
+what makes a player good in pubs??
+
+1st for infantry:
+
+above 0.8 kpm, MINIMUM 50 KILLS (LONG MATCH), arty kills max 1/4, tanking 1/4 max
+
+ 
+------------
+
+german arty = 150MM HOWITZER [sFH 18]:
+american arty = 155MM HOWITZER [M114]:
+russian arty = 122MM HOWITZER [M1938 (M-30)]:
+
+--------------
+
+german tanks::::
+
+88 KWK 36 L/56 [Sd.Kfz.181 Tiger 1]
+COAXIAL MG34 [Sd.Kfz.181 Tiger 1]
+driver: HULL MG34 [Sd.Kfz.181 Tiger 1]:
+
+
+
+75MM CANNON [Sd.Kfz.161 Panzer IV]
+COAXIAL MG34 [Sd.Kfz.161 Panzer IV]
+driver: HULL MG34 [Sd.Kfz.161 Panzer IV]
+
+
+
+american tanks::::
+
+
+76MM M1 GUN [Sherman M4A3E2(76)]
+COAXIAL M1919 [Sherman M4A3E2(76)]
+
+75MM CANNON [Sherman M4A1]
+COAXIAL M1919 [Sherman M4A1]
+
+37MM CANNON [Stuart M5A1]
+COAXIAL M1919 [Stuart M5A1]
+
+
+
+
+
+SCRIPT TO FIND:
+- INFANTRY PLAYERS
+- ARTY PLAYERS
+- GOOD TANKERS
+
+with different requiremnts for each
+
+
+
+-----------------
+
+
+
+5 days = 211 in 82AD
+5 days = 268 in EXD1 server
+
+go back 1 month in stats of server
+
+5*6 = 30 250*6 = 1500 MATCHES BACK 1 month
+
+
+
+
+-----------------
+
+separate small duration matches of big duration matches with minimum 50 kills
+
+-----------------
+
+2 DIFFERENT SCRIPTS 82AD AND EXODUS 1
+
+
+------------------
+
+https://www.battlemetrics.com/players/99682372
+
+FIND PLAYER LATER 
+
+
+--------------------
+GET STEAM ID BY CLICKING ON TOP KILLERS/ETC
+
+
+268 MATCHES PER 4 DAYSs
